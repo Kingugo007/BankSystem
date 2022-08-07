@@ -1,0 +1,15 @@
+﻿[
+    {
+        "Id": "6125b060-7e5b-49b1-b427-aa5a9161dad3",
+        "AccountNumber": "0219185427",
+        "Amount": 200.00,
+        "Depositor Name": "OkonKwo Obio",
+        "TranasactionType": "Deposit",
+        "SenderAccountNumber": "",
+        "Narration": "Deposit",
+        "status": "Processed",
+        "Date": "2020/01/01"
+
+    }
+
+]

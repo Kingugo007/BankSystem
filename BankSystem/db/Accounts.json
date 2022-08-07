@@ -1,0 +1,137 @@
+[
+    {
+        "Id": "48c1ab0a-304d-4fb5-9d2a-2d494b8c1317",
+        "Name": "Ugochukwu Oluo",
+        "AccountNumber": "4835674023",
+        "Balance": 0.0,
+        "UserId": "2d3bc386-dfc7-442e-a658-a3daf63601c5",
+        "AccountType": "Savings",
+        "CreatedAt": "2022-07-26T21:18:03.5701834+01:00"
+    },
+    {
+        "Id": "48c1ab0a-304d-4fb5-9d2a-2d494b8c1317",
+        "Name": "Ugochukwu Oluo",
+        "AccountNumber": "4835674023",
+        "Balance": 50000.0,
+        "UserId": "2d3bc386-dfc7-442e-a658-a3daf63601c5",
+        "AccountType": "Savings",
+        "CreatedAt": "2022-07-26T21:20:34.8815241+01:00"
+    },
+    {
+        "Id": "48c1ab0a-304d-4fb5-9d2a-2d494b8c1317",
+        "Name": "Ugochukwu Oluo",
+        "AccountNumber": "4835674023",
+        "Balance": 100000.0,
+        "UserId": "2d3bc386-dfc7-442e-a658-a3daf63601c5",
+        "AccountType": "Savings",
+        "CreatedAt": "2022-07-26T21:38:12.8307606+01:00"
+    },
+    {
+        "Id": "48c1ab0a-304d-4fb5-9d2a-2d494b8c1317",
+        "Name": "Ugochukwu Oluo",
+        "AccountNumber": "4835674023",
+        "Balance": 90000.0,
+        "UserId": "2d3bc386-dfc7-442e-a658-a3daf63601c5",
+        "AccountType": "Savings",
+        "CreatedAt": "2022-07-26T22:26:12.6923822+01:00"
+    },
+    {
+        "Id": "ca6589e6-5d2e-4fb0-acc2-da08522daf9c",
+        "Name": "Dozie Opara",
+        "AccountNumber": "4357636720",
+        "Balance": 0.0,
+        "UserId": "71aef275-8619-467f-835e-93b4d6d456c1",
+        "AccountType": "Current",
+        "CreatedAt": "2022-07-27T07:00:35.7663606+01:00"
+    },
+    {
+        "Id": "4ca01ab4-9612-4d5c-bb88-d57e9aed8d15",
+        "Name": "Anselm Oluo",
+        "AccountNumber": "4315526843",
+        "Balance": 0.0,
+        "UserId": "b0e61e80-c23b-4750-87aa-326a9b9116fe",
+        "AccountType": "Savings",
+        "CreatedAt": "2022-07-27T07:17:11.5531776+01:00"
+    },
+    {
+        "Id": "4ca01ab4-9612-4d5c-bb88-d57e9aed8d15",
+        "Name": "Anselm Oluo",
+        "AccountNumber": "4315526843",
+        "Balance": 5000.0,
+        "UserId": "b0e61e80-c23b-4750-87aa-326a9b9116fe",
+        "AccountType": "Savings",
+        "CreatedAt": "2022-07-27T07:17:33.3780966+01:00"
+    },
+    {
+        "Id": "299407be-41e2-4f6b-8120-8beb06d08398",
+        "Name": "Dozie Opara",
+        "AccountNumber": "9628488006",
+        "Balance": 0.0,
+        "UserId": "71aef275-8619-467f-835e-93b4d6d456c1",
+        "AccountType": "Current",
+        "CreatedAt": "2022-07-27T10:46:02.8501664+01:00"
+    },
+    {
+        "Id": "ca6589e6-5d2e-4fb0-acc2-da08522daf9c",
+        "Name": "Dozie Opara",
+        "AccountNumber": "4357636720",
+        "Balance": 5000.0,
+        "UserId": "71aef275-8619-467f-835e-93b4d6d456c1",
+        "AccountType": "Current",
+        "CreatedAt": "2022-07-27T11:10:17.8191248+01:00"
+    },
+    {
+        "Id": "ca6589e6-5d2e-4fb0-acc2-da08522daf9c",
+        "Name": "Dozie Opara",
+        "AccountNumber": "4357636720",
+        "Balance": 4000.0,
+        "UserId": "71aef275-8619-467f-835e-93b4d6d456c1",
+        "AccountType": "Current",
+        "CreatedAt": "2022-07-27T20:02:08.7108418+01:00"
+    },
+    {
+        "Id": "299407be-41e2-4f6b-8120-8beb06d08398",
+        "Name": "Dozie Opara",
+        "AccountNumber": "9628488006",
+        "Balance": 1000.0,
+        "UserId": "71aef275-8619-467f-835e-93b4d6d456c1",
+        "AccountType": "Current",
+        "CreatedAt": "2022-07-27T20:02:08.7659488+01:00"
+    },
+    {
+        "Id": "299407be-41e2-4f6b-8120-8beb06d08398",
+        "Name": "Dozie Opara",
+        "AccountNumber": "9628488006",
+        "Balance": 11000.0,
+        "UserId": "71aef275-8619-467f-835e-93b4d6d456c1",
+        "AccountType": "Current",
+        "CreatedAt": "2022-07-27T20:08:04.116169+01:00"
+    },
+    {
+        "Id": "48c1ab0a-304d-4fb5-9d2a-2d494b8c1317",
+        "Name": "Ugochukwu Oluo",
+        "AccountNumber": "4835674023",
+        "Balance": 40000.0,
+        "UserId": "2d3bc386-dfc7-442e-a658-a3daf63601c5",
+        "AccountType": "Savings",
+        "CreatedAt": "2022-07-27T20:11:56.8621412+01:00"
+    },
+    {
+        "Id": "299407be-41e2-4f6b-8120-8beb06d08398",
+        "Name": "Dozie Opara",
+        "AccountNumber": "9628488006",
+        "Balance": 61000.0,
+        "UserId": "71aef275-8619-467f-835e-93b4d6d456c1",
+        "AccountType": "Current",
+        "CreatedAt": "2022-07-27T20:11:56.9197768+01:00"
+    },
+    {
+        "Id": "48c1ab0a-304d-4fb5-9d2a-2d494b8c1317",
+        "Name": "Ugochukwu Oluo",
+        "AccountNumber": "4835674023",
+        "Balance": 35000.0,
+        "UserId": "2d3bc386-dfc7-442e-a658-a3daf63601c5",
+        "AccountType": "Savings",
+        "CreatedAt": "2022-07-27T20:43:52.5660976+01:00"
+    }
+]

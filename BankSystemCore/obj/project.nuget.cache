@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eR5/GtVclINdWhi2emWW9RFUyFfmRXzlOR5cp4RiD1/2ihLaJdrHzq+2HR52m+KsttW1AOCcekFLYgRDP4YTqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Videos\\repo\\BankSystemCore\\BankSystemCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

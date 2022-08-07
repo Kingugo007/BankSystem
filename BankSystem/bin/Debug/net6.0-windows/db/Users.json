@@ -1,0 +1,33 @@
+[
+    {
+        "Id": "2d3bc386-dfc7-442e-a658-a3daf63601c5",
+        "FirstName": "Ugochukwu",
+        "LastName": "Oluo",
+        "Password": "edb36ef7543d17eb8d160c1f66329bd0cc95175f71e7efd3267a181cf90b3b2b",
+        "Email": "ugo@gmail.com",
+        "Phone": "08136127343",
+        "CreatedAt": "2022-07-26T21:17:59.2275104+01:00",
+        "FullName": "Ugochukwu Oluo"
+    },
+    {
+        "Id": "71aef275-8619-467f-835e-93b4d6d456c1",
+        "FirstName": "Dozie",
+        "LastName": "Opara",
+        "Password": "edb36ef7543d17eb8d160c1f66329bd0cc95175f71e7efd3267a181cf90b3b2b",
+        "Email": "opara@gmail.com",
+        "Phone": "08136127343",
+        "CreatedAt": "2022-07-27T07:00:30.9032976+01:00",
+        "FullName": "Dozie Opara"
+    },
+    {
+        "Id": "b0e61e80-c23b-4750-87aa-326a9b9116fe",
+        "FirstName": "Anselm",
+        "LastName": "Oluo",
+        "Password": "b85102e101894a8b385c6eff1346d6fb169a731525a931874cd97f18603e008e",
+        "Email": "ans@gmail.com",
+        "Phone": "08186430442",
+        "CreatedAt": "2022-07-27T07:17:07.3908543+01:00",
+        "FullName": "Anselm Oluo"
+    }  
+  
+]
